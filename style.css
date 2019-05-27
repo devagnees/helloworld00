@@ -1,0 +1,24 @@
+html {
+	display: table;
+	width: 100%;
+	height: 100%;
+}
+body {
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+  padding: 10px 10px 10px 10px;
+}
+
+
+h1 {
+    color: rgb(139, 15, 15);
+    font: normal 3em/1.5em 'Century Gothic';
+    text-align: center;
+}
+
+h1 {
+  box-shadow: 0 0 0 2px grey,
+              0 0 0 10px pink;
+  margin: 200px 500px 200px 500px;
+}
